@@ -1,9 +1,0 @@
-{
-  "__type__": "cc.JsonAsset",
-  "_name": "config",
-  "json": {
-    "ProtocolType": "ProtocolType.ByteBuffer",
-    "PlatformType": "PlatformType.Web",
-    "EnvironmentType": "EnvironmentType.Test"
-  }
-}
